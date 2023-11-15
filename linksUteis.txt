@@ -1,1 +1,2 @@
 1 - https://making.lyst.com/lightfm/docs/home.html
+2 - https://arthurlambletvaz.medium.com/one-hot-encoding-o-que-é-cd2e8d302ae0
